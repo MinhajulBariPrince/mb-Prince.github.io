@@ -21,12 +21,11 @@ repository               : "MinhajulBariPrince/mb-Prince.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  images/profile.png
+  avatar           :  "profile.png"
   name             : "Minhajul Bari Prince"
   pronouns         : # example: "he/his"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dhaka, Bangladesh"
-  uri              : # URL
   email            : "minhajulbariprince@gmail.com"
 
   # Academic websites
