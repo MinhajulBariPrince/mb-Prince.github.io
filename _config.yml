@@ -21,7 +21,7 @@ repository               : "MinhajulBariPrince/mb-Prince.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  "profile.png"
+  avatar           :  "propicture.png"
   name             : "Minhajul Bari Prince"
   pronouns         : # example: "he/his"
   bio              : "Short biography for the left-hand sidebar"
@@ -43,7 +43,7 @@ author:
 
 
 # Site Settings
-teaser                   : /images/profile.png"
+teaser                   : "/images/profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
