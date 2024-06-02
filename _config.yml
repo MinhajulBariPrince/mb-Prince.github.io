@@ -21,12 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "propic.png"
+  avatar           : "profile.png"
   name             : "Minhajul Bari Prince"
   pronouns         : # example: "he/his"
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dhaka, Bangladesh"
-  employer         : "Ahsanullah University of Science and Technology"
   uri              : # URL
   email            : "minhajulbariprince@gmail.com"
 
