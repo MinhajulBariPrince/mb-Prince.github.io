@@ -4,13 +4,13 @@ main:
     url: /publications/     
     
   - title: "Current Projects"
-    url: /portfolio/
+    url: /Current Projects/
         
   - title: "Other Works"
-    url: /year-archive/
+    url: /Other Works/
     
   - title: "CV"
     url: /cv/
     
   - title: "Poster"
-    url: /markdown/
+    url: /Poster/
