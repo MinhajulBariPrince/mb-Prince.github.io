@@ -4,4 +4,4 @@ excerpt: "In this study, a simplified micro-modeling approach is used for finite
 collection: portfolio"
 ---
 
-[image](CP1.jpg)
+![image](infill.png)
