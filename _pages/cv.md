@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 
-* B.Sc. in Civil Engineering, Ahsanullah University of Science and Technology, 2023
+* B.Sc. in Civil Engineering (January,2023)
+ /Ahsanullah University of Science and Technology
   Concentration: Structural Engineering	        
   CGPA: 3.707 on a scale of 4.00 [Details:](https://drive.google.com/file/d/14Dq5vBtmrEPv0bwcRh4kC7Cz_ea_bDvl/view?usp=sharing)
   Class Rank: 7th
