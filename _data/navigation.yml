@@ -5,9 +5,6 @@ main:
     
   - title: "Current Projects"
     url: /CurrentProjects/
-        
-  - title: "Other Works"
-    url: /Other Works/
     
   - title: "CV"
     url: /cv/
