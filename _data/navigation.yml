@@ -3,14 +3,14 @@ main:
   - title: "Research"
     url: /publications/     
     
-  - title: "Poster Presentation"
+  - title: "Current Projects"
     url: /portfolio/
         
-  - title: "Leadership"
+  - title: "Other Works"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Other Works"
+  - title: "Poster"
     url: /markdown/
