@@ -2,7 +2,7 @@
 title: "Comparison of lateral behavior of an existing RC building under nonlinear static and incremental dynamic loads."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper aims to compare the lateral behavior of an existing reinforced concrete (RC) building under nonlinear static and incremental dynamic loads, focusing on aspects such as lateral stiffness, strength, ductility, collapse mechanisms, and damage.'
 date: 2023-03-28
 venue: 'Asian Journal of Civil Engineering'
 paperurl: 'https://link.springer.com/article/10.1007/s42107-023-00632-2'
