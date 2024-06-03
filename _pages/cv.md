@@ -13,10 +13,10 @@ Education
 ======
 
 * B.Sc. in Civil Engineering (January,2023)
-  *Ahsanullah University of Science and Technology
-  *Concentration: Structural Engineering	        
-  *CGPA: 3.707 on a scale of 4.00 [Details:](https://drive.google.com/file/d/14Dq5vBtmrEPv0bwcRh4kC7Cz_ea_bDvl/view?usp=sharing)
-  *Class Rank: 7th
+  * Ahsanullah University of Science and Technology
+  * Concentration: Structural Engineering	        
+  * CGPA: 3.707 on a scale of 4.00 [Details:](https://drive.google.com/file/d/14Dq5vBtmrEPv0bwcRh4kC7Cz_ea_bDvl/view?usp=sharing)
+  * Class Rank: 7th
 
 Work experience
 ======
@@ -60,7 +60,7 @@ Awards
 Service and leadership
 ======
 * Society Representative, AUST Civil Engineering Society (ACES)(2018-2022)
-    *Represented the society in meetings with the university administration
-    *Led meetings and organized events for the society
-    *Coordinated with other societies to plan joint activities
+    * Represented the society in meetings with the university administration
+    * Led meetings and organized events for the society
+    * Coordinated with other societies to plan joint activities
 
