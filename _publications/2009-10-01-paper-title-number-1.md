@@ -6,7 +6,7 @@ excerpt: 'This paper aims to compare the lateral behavior of an existing reinfor
 date: 2023-03-28
 venue: 'Asian Journal of Civil Engineering'
 paperurl: 'https://link.springer.com/article/10.1007/s42107-023-00632-2'
-slidesurl: 'https://minhajulbariprince.github.io/mb-Prince.github.io/files/Va2.pdf'
+slidesurl: 'https://minhajulbariprince.github.io/mb-Prince.github.io/files/va2.pdf'
 citation: 'Prince, M. B., Mollah, Md. N., Chowdhury, Md. R., & Sen, D. (2023). Comparison of lateral behavior of an existing RC building under nonlinear static and incremental dynamic loads. Asian Journal of Civil Engineering, 24(7), 2155–2164. https://doi.org/10.1007/s42107-023-00632-2'
 ---
 
