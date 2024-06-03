@@ -2,7 +2,7 @@
 title: "INVESTIGATION ON STRUCTURAL PERFORMANCE OF HIGHRISE RC STRUCTURE IN DIFFERENT REGION OF BANGLADESH"
 collection: Conferences
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This conference paper This study aims to analyze a 20-story high-rise reinforced concrete framed building with the ETABS software program using the response spectrum method in four different seismic zones as per BNBC (2020).'
 date: 2024-03-23
 venue: '7th International Conference on Civil Engineering for Sustainable Development (ICCESD 2024), Bangladesh'
 paperurl: 'http://www.iccesd.com/proc_2024/Papers/218.pdf'
