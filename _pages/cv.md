@@ -6,40 +6,38 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download in PDF Format](https://drive.google.com/file/d/15e9MTSfxkNtSKGl-rE_caBZalRpMs13T/view?usp=sharing)
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* B.Sc. in Civil Engineering, Ahsanullah University of Science and Technology, 2023
+  Concentration: Structural Engineering	        
+  CGPA: 3.707 on a scale of 4.00 [Details:](https://drive.google.com/file/d/14Dq5vBtmrEPv0bwcRh4kC7Cz_ea_bDvl/view?usp=sharing)
+  Class Rank: 7th
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Structural Safety Engineer (February 2023- September 2023)
+  * Khaled Group of Companies
+  * Duties includes:
+  * Ensured structural safety of buildings according to ACCORD/RSC and NIRAPON guidelines
+  * Conducted thorough inspections and assessments to identify potential safety issues and implemented corrective actions.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Research experience 
+======
+* Collaborative Research with Undergraduate Thesis Supervisor(2023-Present)
+  * Supervisor: Dr. Debasish Sen
+  * Institution: Ahsanullah University of Science and Technology
+  * Conducted collaborative research on various topics (seismic evaluation methods, bond-slip relationship between reinforcement and concrete, masonry infill, etc.) resulting in two published papers and one ongoing project on finite element analysis of masonry infill.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: C, Python
+* Drafting Software: AutoCAD
+* Structural Analysis and Design Software: ETABS, SAP2000, SeismoStruct
+* Finite Element Analysis Software: Abaqus
 
 Publications
 ======
@@ -53,12 +51,15 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Academic Waiver Scholarship (November, 2020)
+  Ahsanullah University of Science & Technology
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Society Representative, AUST Civil Engineering Society (ACES)(2018-2022)
+    -Represented the society in meetings with the university administration
+    -Led meetings and organized events for the society
+    -Coordinated with other societies to plan joint activities
+
