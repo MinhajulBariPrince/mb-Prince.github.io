@@ -4,4 +4,4 @@ excerpt: "In this study, a simplified micro-modeling approach is used for finite
 collection: portfolio"
 ---
 
-https://github.com/MinhajulBariPrince/mb-Prince.github.io/blob/891684c481d705fe34598acce125e5f60e999b91/images/infill.png
+[image](CP1.jpg)
