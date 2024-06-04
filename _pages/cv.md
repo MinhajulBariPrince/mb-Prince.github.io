@@ -16,7 +16,7 @@ Education
   * Ahsanullah University of Science and Technology
   * Concentration: Structural Engineering	        
   * CGPA: 3.707 on a scale of 4.00 [-Details](https://drive.google.com/file/d/14Dq5vBtmrEPv0bwcRh4kC7Cz_ea_bDvl/view?usp=sharing)
-  * Class Rank: 7th
+  * Class Rank: 7th out of 140 civil engineering students
 
 Research interest
 ======
