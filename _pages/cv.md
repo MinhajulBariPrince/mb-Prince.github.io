@@ -59,19 +59,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Relevant Undergraduate Coursework
-======  
-* Structural Analysis and Design (4 courses = 12 credits)
-* Mechanics of Solids (2 courses = 6 credits)
-* Mechanics of Fluids (1 course = 4 credits)
-* Engineering Mechanics (1 course = 4 credits)
-* Engineering Materials (1 course = 4 credit)
-* Design of Concrete Structures (2 courses = 6 credits)
-* Pre-stressed Concrete ( 1 course = 3 credit)
-* Design of Steel Structures ( 1 course = 3 credit)
-* [Detailed Course Outline](https://drive.google.com/file/d/1Oyg3fULjWH04uyWOKbu22IzA_J5l3ZhT/view?usp=sharing)
-    [Syllabus of Undergraduate Programs, Department of CE, AUST](https://www.aust.edu/ce/syllabus)
-
 Awards
 ======
 * Academic Waiver Scholarship (November, 2020)
