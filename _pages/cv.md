@@ -23,7 +23,7 @@ Research interest
 * Investigation on global behavior of buildings as well as local behavior of structural elements under seismic loads
 * Seismic strengthening of structural bodies using smart materials
 * Prediction of fracture in structural bodies under impact and seismic loads
-* Understanding earthquake mechanics on structural bodies
+* Understanding wave propagation in structural bodies
 
 Relevant Undergraduate Coursework
 ======  
