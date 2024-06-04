@@ -35,7 +35,9 @@ Relevant Undergraduate Coursework
 * Design of Concrete Structures (2 courses = 6 credits)
 * Pre-stressed Concrete ( 1 course = 3 credits)
 * Design of Steel Structures ( 1 course = 3 credits)
-* [Detailed Course Outline](https://drive.google.com/file/d/1Oyg3fULjWH04uyWOKbu22IzA_J5l3ZhT/view?usp=sharing)
+
+
+[Detailed Course Outline](https://drive.google.com/file/d/1Oyg3fULjWH04uyWOKbu22IzA_J5l3ZhT/view?usp=sharing)
     [Syllabus of Undergraduate Programs, Department of CE, AUST](https://www.aust.edu/ce/syllabus)
 
 Research experience
