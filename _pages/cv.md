@@ -18,6 +18,20 @@ Education
   * CGPA: 3.707 on a scale of 4.00 [-Details](https://drive.google.com/file/d/14Dq5vBtmrEPv0bwcRh4kC7Cz_ea_bDvl/view?usp=sharing)
   * Class Rank: 7th
 
+Research interest
+======
+* Investigation on global behavior of buildings as well as local behavior of structural elements under seismic loads
+* Seismic strengthening of structural bodies using smart materials
+* Prediction of fracture in structural bodies under impact and seismic loads
+* Understanding earthquake mechanics on structural bodies
+
+Research experience
+======
+* Collaborative Research with Undergraduate Thesis Supervisor(2023-Present)
+  * Supervisor: Dr. Debasish Sen
+  * Institution: Ahsanullah University of Science and Technology
+  * Conducted collaborative research on various topics (seismic evaluation methods, bond-slip relationship between reinforcement and concrete, masonry infill, etc.) resulting in two published papers and one ongoing project on finite element analysis of masonry infill.
+  
 Work experience
 ======
 * Structural Safety Engineer (February 2023- September 2023)
@@ -26,13 +40,6 @@ Work experience
   * Ensured structural safety of buildings according to ACCORD/RSC and NIRAPON guidelines
   * Conducted thorough inspections and assessments to identify potential safety issues and implemented corrective actions.
 
-Research experience 
-======
-* Collaborative Research with Undergraduate Thesis Supervisor(2023-Present)
-  * Supervisor: Dr. Debasish Sen
-  * Institution: Ahsanullah University of Science and Technology
-  * Conducted collaborative research on various topics (seismic evaluation methods, bond-slip relationship between reinforcement and concrete, masonry infill, etc.) resulting in two published papers and one ongoing project on finite element analysis of masonry infill.
-  
 Skills
 ======
 * Programming Language: C, Python
@@ -51,7 +58,10 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+Relevant Coursework
+======  
+* Structural Analysis and Design (4 courses = 
 Awards
 ======
 * Academic Waiver Scholarship (November, 2020)
