@@ -13,5 +13,8 @@ I completed my BSc in Civil Engineering from Ahsanullah University of Science an
 In the meantime, I also became involved in collaborative research with my undergraduate thesis supervisor, [Dr. Debasish Sen](https://scholar.google.co.jp/citations?user=yoSKNvcAAAAJ&hl=en) in various projects. While working with him, I found more interest in research than in the industry. Therefore, I have continued working with him to this day and have published [two papers](https://minhajulbariprince.github.io/mb-Prince.github.io//publications/) and currently have [two ongoing research projects](https://minhajulbariprince.github.io/mb-Prince.github.io//CurrentProjects/)
 
 
-======
-To learn more about my successes, endeavors, and achievements, I cordially welcome you to peruse my portfolio in greater detail. I appreciate you traveling with me on this trip!
+
+To learn more about my successes, endeavors, and achievements, I cordially welcome you to peruse my portfolio in greater detail. 
+
+
+<q>Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.&#8230;</q> &#8211;Richard P. Feynman
