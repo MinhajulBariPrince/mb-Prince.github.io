@@ -1,4 +1,4 @@
-![image](https://github.com/MinhajulBariPrince/mb-Prince.github.io/assets/68558581/f130b292-98ba-4d0d-9de7-2f394de7830b)---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
