@@ -36,18 +36,17 @@ Research experience
 Work experience
 ======
 * Lab Instructor (July 2024- Present)
-  * Department of Civil and Environmental Engineering
-  * North South University
+  * Department of Civil and Environmental Engineering, North South University
   * Bashundhara, Dhaka-1229, Bangladesh
-  * Courses Taught:
+  * Courses Instructed:
   * Transportation Engineering Sessional – I
+  * Computer Aided Drawing (CAD) for Engineers
     
     
 * Structural Safety Engineer (February 2023- September 2023)
   * Khaled Group of Companies
-  * Duties includes:
-  * Ensured structural safety of buildings according to ACCORD/RSC and NIRAPON guidelines
-  * Conducted thorough inspections and assessments to identify potential safety issues and implemented corrective actions.
+  * Responsibilities:
+  * Ensured structural safety of buildings according to ACCORD/RSC and NIRAPON guidelines, Conducted thorough inspections and assessments to identify potential safety issues and implemented corrective actions.
 
 Relevant Undergraduate Coursework
 ======  
