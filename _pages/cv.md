@@ -28,6 +28,12 @@ Research interest
 
 Research experience
 ======
+*Research Assistant (September 2024-January 2025)
+ *Research Title: Desirable Properties of Concrete to be used with High strength Steel rebar in RC structure - A Review
+ <i>A Memorandum of Understanding between Public Works Department (PWD) Bangladesh and GPH Ispat Limited</i>
+ *Grant Amount: $3000
+ *Summary: This project aims to study the compatibility of high strength steel reinforcement with various concrete characteristics used in Bangladesh. The findings are expected to influence design practices and code provisions in RC structures.
+
 * Collaborative Research with Undergraduate Thesis Supervisor(2023-Present)
   * Supervisor: Dr. Debasish Sen
   * Institution: Ahsanullah University of Science and Technology
