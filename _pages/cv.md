@@ -41,14 +41,7 @@ Research experience
   
 Work experience
 ======
-* Lab Instructor (July 2024- Present)
-  * Department of Civil and Environmental Engineering, North South University
-  * Bashundhara, Dhaka-1229, Bangladesh
-  * Courses Instructed:
-  * Transportation Engineering Sessional – I
-  * Computer Aided Drawing (CAD) for Engineers
-    
-    
+
 * Structural Safety Engineer (February 2023- September 2023)
   * Khaled Group of Companies
   * Responsibilities:
