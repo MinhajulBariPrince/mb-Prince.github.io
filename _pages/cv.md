@@ -91,7 +91,8 @@ Awards
 Service and leadership
 ======
 * Society Representative, AUST Civil Engineering Society (ACES)(2018-2022)<br>
-      Represented the society in meetings with the university administration<br>
-      Led meetings and organized events for the society<br>
-      Coordinated with other societies to plan joint activities
+      *Responsibilties:<br>
+        Represented the society in meetings with the university administration<br>
+        Led meetings and organized events for the society<br>
+        Coordinated with other societies to plan joint activities
 
