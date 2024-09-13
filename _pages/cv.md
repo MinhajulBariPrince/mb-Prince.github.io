@@ -30,22 +30,23 @@ Research experience
 ======
 * Research Assistant (September 2024-January 2025)
   * Research Title: Desirable Properties of Concrete to be used with High strength Steel rebar in RC structure - A Review
- <I>(A Memorandum of Understanding between Public Works Department (PWD) Bangladesh and GPH Ispat Limited)</i><br>
+ <I>(A Memorandum of Understanding between Public Works Department (PWD) Bangladesh and GPH Ispat Limited)</i><be>
+    Funding Agency: GPH Ispat Limited
     Grant Amount: $3000<br>
     Summary: This project aims to study the compatibility of high strength steel reinforcement with various concrete characteristics used in Bangladesh. The findings are expected to influence design practices and code provisions in RC structures.
 
-* Collaborative Research with Undergraduate Thesis Supervisor(2023-Present)
-  * Supervisor: Dr. Debasish Sen
-  * Institution: Ahsanullah University of Science and Technology
-  * Conducted collaborative research on various topics (seismic evaluation methods, bond-slip relationship between reinforcement and concrete, masonry infill, etc.) resulting in two published papers and one ongoing project on finite element analysis of masonry infill.
+* Collaborative Research with Undergraduate Thesis Supervisor(2023-Present)<br>
+    Supervisor: Dr. Debasish Sen<br>
+    Institution: Ahsanullah University of Science and Technology<br>
+    Conducted collaborative research on various topics (seismic evaluation methods, bond-slip relationship between reinforcement and concrete, masonry infill, etc.) resulting in two published papers and one ongoing project on finite element analysis of masonry infill.
   
 Work experience
 ======
 
-* Structural Safety Engineer (February 2023- September 2023)
-  * Khaled Group of Companies
-  * Responsibilities:
-  * Ensured structural safety of buildings according to ACCORD/RSC and NIRAPON guidelines, Conducted thorough inspections and assessments to identify potential safety issues and implemented corrective actions.
+* Structural Safety Engineer (February 2023- September 2023)<br>
+    Khaled Group of Companies<br>
+    Responsibilities:<br>
+    Ensured structural safety of buildings according to ACCORD/RSC and NIRAPON guidelines, Conducted thorough inspections and assessments to identify potential safety issues and implemented corrective actions.
 
 Relevant Undergraduate Coursework
 ======  
@@ -85,12 +86,12 @@ Talks
 Awards
 ======
 * Academic Waiver Scholarship (November, 2020)
-  * Ahsanullah University of Science & Technology
+    <br>Ahsanullah University of Science & Technology
 
 Service and leadership
 ======
-* Society Representative, AUST Civil Engineering Society (ACES)(2018-2022)
-    * Represented the society in meetings with the university administration
-    * Led meetings and organized events for the society
-    * Coordinated with other societies to plan joint activities
+* Society Representative, AUST Civil Engineering Society (ACES)(2018-2022)<br>
+      Represented the society in meetings with the university administration<br>
+      Led meetings and organized events for the society<br>
+      Coordinated with other societies to plan joint activities
 
