@@ -30,10 +30,10 @@ Research experience
 ======
 * Research Assistant (September 2024-January 2025)<br>
     Research Title: Application of High-Strength Reinforcement in Reinforced Concrete Building Design
- <I>(A Memorandum of Understanding between Public Works Department (PWD) Bangladesh and GPH Ispat Limited)</i><br>
-    Funding Agency: GPH Ispat Limited<br>
-    Grant Amount: $3000<br>
-    Summary: This project aims to provide insights into the potential advantages and challenges of integrating high-strength steel in RC building design in Bangladesh.
+     <I>(A Memorandum of Understanding between Public Works Department (PWD) Bangladesh and GPH Ispat Limited)</i><br>
+      Funding Agency: GPH Ispat Limited<br>
+      Grant Amount: $3000<br>
+      Summary: This project aims to provide insights into the potential advantages and challenges of integrating high-strength steel in RC building design in Bangladesh.
 
 * Collaborative Research with Undergraduate Thesis Supervisor(2023-Present)<br>
      Supervisor: Dr. Debasish Sen<br>
