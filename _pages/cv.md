@@ -28,7 +28,7 @@ Research interest
 
 Research experience
 ======
-* Research Assistant (September 2024-January 2025)<br>
+* Research Assistant (September 2024-March 2025)<br>
     Research Title: Application of High-Strength Reinforcement in Reinforced Concrete Building Design
      <br><i>(A Memorandum of Understanding between Public Works Department (PWD) Bangladesh and GPH Ispat Limited)</i><br>
       Funding Agency: GPH Ispat Limited<br>
