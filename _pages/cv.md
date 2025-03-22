@@ -28,12 +28,12 @@ Research interest
 
 Research experience
 ======
-* Research Assistant (September 2024-March 2025)<br>
-    Research Title: Application of High-Strength Reinforcement in Reinforced Concrete Building Design
+* Research Assistant (September 2024-Present)<br>
+    Research Title: Seismic behavior of RC frames with high strength rebar and different grades of concrete subjected to different magnitude of axial load
      <br><i>(A Memorandum of Understanding between Public Works Department (PWD) Bangladesh and GPH Ispat Limited)</i><br>
       Funding Agency: GPH Ispat Limited<br>
       Grant Amount: $3000<br>
-      Summary: This project aims to provide insights into the potential advantages and challenges of integrating high-strength steel in RC building design in Bangladesh.
+      Summary: This project aims to perform a numerical study by finite element analysis of an RC frame by varying the grade of reinforcement (400 MPa ~ 600 MPa), the grade of concrete (20 MPa ~ 50 MPa), and the axial load ratio (up to 0.5 with some exceptions); thus, finding out the effect of these parameters on seismic behavior.
 
 * Collaborative Research with Undergraduate Thesis Supervisor(2023-Present)<br>
      Supervisor: Dr. Debasish Sen<br>
