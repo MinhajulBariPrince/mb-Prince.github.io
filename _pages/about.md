@@ -19,4 +19,7 @@ In the meantime, I also became involved in collaborative research with my underg
 To learn more about my successes, endeavors, and achievements, I cordially welcome you to peruse my portfolio in greater detail. 
 
 
+
+
+
 ><q>Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.&#8230;</q> &#8211;Richard P. Feynman
