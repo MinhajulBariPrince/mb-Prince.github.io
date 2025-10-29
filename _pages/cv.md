@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download in PDF Format](https://drive.google.com/file/d/15e9MTSfxkNtSKGl-rE_caBZalRpMs13T/view?usp=sharing)
+[Download in PDF Format](https://drive.google.com/file/d/1sdEemoa7FLkKxlAK1UDDzlKu5cZDaC6C/view?usp=sharing)
 {% include base_path %}
 
 Education
@@ -20,20 +20,20 @@ Education
 
 Research interest
 ======
-* Investigation on global behavior of buildings as well as local behavior of structural elements under seismic loads
-* Seismic strengthening of structural bodies using smart materials
-* Prediction of fracture in structural bodies under impact and seismic loads
-* Understanding wave propagation in structural bodies
+* Investigation of the nonlinear behavior and performance of structural systems under extreme loading conditions, including seismic and impact events
+* Seismic strengthening of structural systems using smart materials
+* Fracture prediction and failure mechanisms of structural elements subjected to impact loading
+* Application of additive manufacturing and advanced construction technologies for the repair, retrofitting, and strengthening of deteriorated or seismically vulnerable structures.
 
 
 Research experience
 ======
-* Research Assistant (September 2024-Present)<br>
+* Research Assistant (September 2024-April 2025)<br>
     Research Title: Seismic behavior of RC frames with high strength rebar and different grades of concrete subjected to different magnitude of axial load
-     <br><i>(A Memorandum of Understanding between Public Works Department (PWD) Bangladesh and GPH Ispat Limited)</i><br>
+     <br><i>(A research project funded by GPH Ispat Limited in collaboration with the Public Works Department (PWD), Bangladesh)</i><br>
       Funding Agency: GPH Ispat Limited<br>
       Grant Amount: $3000<br>
-      Summary: This project aims to perform a numerical study by finite element analysis of an RC frame by varying the grade of reinforcement (400 MPa ~ 600 MPa), the grade of concrete (20 MPa ~ 50 MPa), and the axial load ratio (up to 0.5 with some exceptions); thus, finding out the effect of these parameters on seismic behavior.
+      Summary: In this joint research initiative between the PWD and GPH Ispat Limited, the study investigates the feasibility of incorporating high-strength reinforcement in reinforced concrete (RC) building design. The research combines an extensive literature review with analytical studies focusing on critical design parameters, including confinement, development length in tension, and crack width. A detailed numerical analysis using finite element modeling is conducted to evaluate the effects of reinforcement grade (400–600 MPa), concrete grade (20–50 MPa), and axial load ratio (up to 0.5, with some exceptions) on the seismic performance of RC frames.
 
 * Collaborative Research with Undergraduate Thesis Supervisor(2023-Present)<br>
      Supervisor: Dr. Debasish Sen<br>
@@ -69,7 +69,7 @@ Skills
 * Programming Language: C, Python
 * Drafting Software: AutoCAD
 * Structural Analysis and Design Software: ETABS, SAP2000, SeismoStruct
-* Finite Element Analysis Software: Abaqus
+* Finite Element Analysis Software: Abaqus, OpenSeesPy
 
 Publications
 ======
